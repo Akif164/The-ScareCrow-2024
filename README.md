@@ -19,6 +19,10 @@
 - `Scripts/` → C# scripts for gameplay logic  
 - `Prefabs/` → Reusable game objects
 
+## 🚀 Download
+👉 [**Download Here**](https://mehmet-akif-studios.itch.io/the-scarecrow)
+
+
 <img width="1919" height="1079" alt="J161xZ" src="https://github.com/user-attachments/assets/0a5a81b5-1e64-4fc5-8a34-f8cad66aaf4c" />
 <img width="885" height="493" alt="fZyekx" src="https://github.com/user-attachments/assets/82fd78f1-284e-4c47-a72b-b2be121771e9" />
 <img width="794" height="422" alt="lGxFPe" src="https://github.com/user-attachments/assets/dfe348f9-d356-4535-95b3-a3dee9fa7833" />
